@@ -1,0 +1,23 @@
+{
+  "name": "api-messages-bot",
+  "version": "1.0.0",
+  "description": "API Node.js para acesso a mensagens automáticas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuel-constantino/api-messages-bot.git"
+  },
+  "keywords": [
+    "automação",
+    "whatsapp"
+  ],
+  "author": "Samuel Constantino <samuelicapuidados@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuel-constantino/api-messages-bot/issues"
+  },
+  "homepage": "https://github.com/samuel-constantino/api-messages-bot#readme"
+}
